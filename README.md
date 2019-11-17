@@ -1,6 +1,6 @@
 # 引流
 
-现在updateing实现了一个加载支持修改数据包内容的`EAPOL`认证客户端并将本工程的认证算法做成了插件，更加容易适配各个学校，建议大家尝试https://github.com/updateing/minieap，目前路由器不太支持`minieap`。
+现在updateing实现了一个加载支持修改数据包内容的`EAPOL`认证客户端并将本工程的认证算法做成了插件，更加容易适配各个学校，建议大家尝试[这个仓库](https://github.com/updateing/minieap)，目前路由器不太支持`minieap`
 
 # 使用方法
 
